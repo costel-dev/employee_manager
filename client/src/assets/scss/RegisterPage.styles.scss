@@ -1,0 +1,21 @@
+.mainDivRegister {
+  height: 100vh;
+  width: 120vh;
+  z-index: 1;
+  background-image: url(../../assets/img/brand/graduation.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
+}
+
+.areaRegister {
+  background-image: linear-gradient(to bottom right, white, cadetblue);
+  width: 210vh;
+  height: 130vh;
+  z-index: -10;
+  position: fixed;
+  margin-top: -150px;
+  margin-bottom: -50px;
+  margin-left: -50px;
+  margin-right: 50px;
+}
